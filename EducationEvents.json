@@ -29,7 +29,7 @@
 				"addressLocality": "München"
 			}
 		}
-	}
+	},
 		{
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
@@ -60,7 +60,7 @@
 				"addressLocality": "München"
 			}
 		}
-	}
+	},
 		{
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
