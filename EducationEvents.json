@@ -3,7 +3,7 @@
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
 		"name": "ITEMO SCRUM Foundation",
-		"startDate": "2020-10-02",
+		"startDate": "2020-09-22",
 		"url": "https://www.mitsm.de/schulung/scrum/",
 		"organizer": "BPM",
 		"eventStatus": "https://schema.org/EventScheduled",
@@ -17,7 +17,7 @@
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
 		"name": "ICO ISMS 27001 Foundation",
-		"startDate": "2020-06-29",
+		"startDate": "2020-06-12",
 		"url": "https://www.mitsm.de/schulung/iso-27001/",
 		"organizer": "BPM",
 		"eventStatus": "https://schema.org/EventScheduled",
@@ -34,7 +34,7 @@
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
 		"name": "ITEMO SCRUM Foundation",
-		"startDate": "2020-10-02",
+		"startDate": "2021-09-22",
 		"url": "https://www.mitsm.de/schulung/scrum/",
 		"organizer": "BPM",
 		"eventStatus": "https://schema.org/EventScheduled",
@@ -48,7 +48,7 @@
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
 		"name": "ICO ISMS 27001 Foundation",
-		"startDate": "2021-02-14",
+		"startDate": "2021-06-12",
 		"url": "https://www.mitsm.de/schulung/iso-27001/",
 		"organizer": "BPM",
 		"eventStatus": "https://schema.org/EventScheduled",
@@ -61,11 +61,25 @@
 			}
 		}
 	}
+		{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ITEMO SCRUM Foundation",
+		"startDate": "2022-09-22",
+		"url": "https://www.mitsm.de/schulung/scrum/",
+		"organizer": "BPM",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+		"location": {
+			"@type": "VirtualLocation",
+			"url": "https://www.mitsm.de/schulung/scrum/"
+		}
+	},
 	{
 		"@context": "https://schema.org",
 		"@type": "EducationEvent",
 		"name": "ICO ISMS 27001 Foundation",
-		"startDate": "2021-06-29",
+		"startDate": "2022-06-12",
 		"url": "https://www.mitsm.de/schulung/iso-27001/",
 		"organizer": "BPM",
 		"eventStatus": "https://schema.org/EventScheduled",
