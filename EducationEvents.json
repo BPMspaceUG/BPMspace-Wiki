@@ -92,4 +92,21 @@
 			}
 		}
 	}
+		{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ICO ISMS 27001 Foundation",
+		"startDate": "2022-06-12",
+		"url": "https://www.mitsm.de/schulung/iso-27001/",
+		"organizer": "BPM",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "München"
+			}
+		}
+	}
 ]
