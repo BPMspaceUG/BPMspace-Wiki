@@ -2,7 +2,7 @@ var TSC = TSC || {};
 
 TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
-      <rdf:Description dc:date="2020-04-11 09:33:11 " dc:source="Camtasia,19.0.10,deu" dc:title="SOE" tscDM:firstFrame="SOE_First_Frame.png" tscDM:originId="71C94241-333A-476D-80D0-18FC1D1CDDC0" tscDM:project="SOE">\
+      <rdf:Description dc:date="2020-04-11 11:25:33 " dc:source="Camtasia,19.0.10,deu" dc:title="ONLINE PROCTORING with Secure Online Exam - SOE" tscDM:firstFrame="ONLINE_PROCTORING_with_Secure_Online_Exam_-_SOE_First_Frame.png" tscDM:originId="71C94241-333A-476D-80D0-18FC1D1CDDC0" tscDM:project="SOE_II.autosave">\
          <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="65133"/>\
          <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="956" stDim:w="1700"/>\
          <tsc:langName>\
@@ -29,7 +29,7 @@ TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta
             <rdf:Description>\
                <tscDM:files>\
                   <rdf:Seq>\
-                     <rdf:li xmpDM:name="0" xmpDM:value="SOE.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="SOE_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="SOE_Thumbnails.png"/></rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="ONLINE PROCTORING with Secure Online Exam - SOE.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="ONLINE_PROCTORING_with_Secure_Online_Exam_-_SOE_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="ONLINE_PROCTORING_with_Secure_Online_Exam_-_SOE_Thumbnails.png"/></rdf:Seq>\
                </tscDM:files>\
             </rdf:Description>\
          </tscDM:contentList>\
