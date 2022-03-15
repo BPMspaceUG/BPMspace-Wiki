@@ -7,3 +7,7 @@
 background-color: transparent;
 padding: 0px 20px 10px;
 }
+
+p_black_text{
+  color: black !important;
+}
