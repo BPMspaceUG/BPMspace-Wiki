@@ -1,3 +1,4 @@
+# cd 3756635456442343545444325323 ; docker run -v $(pwd):/app/ php:8.0-cli php /app/createhtml.php > ChrisCraft.html
 <?php
 $dir = __DIR__.'/img';
 $images = scandir($dir);
@@ -28,7 +29,7 @@ foreach ($images as $index => $img) {
     if (preg_match('/\.(jpg|jpeg|png|gif)$/i', $img)) {
         $active = $index === 2 ? 'active' : '';
         $html .= '<div class="carousel-item '.$active.'">
-                      <img class="d-block w-100" src="'.$dir.'/'.$img.'" alt="'.$img.'" style="width:1024px;">
+                      <img class="d-block " src="'.$dir.'/'.$img.'" alt="'.$img.'" style="width:1024px;">
                   </div>';
     }
 }
