@@ -28,7 +28,7 @@ foreach ($images as $index => $img) {
     if (preg_match('/\.(jpg|jpeg|png|gif)$/i', $img)) {
         $active = $index === 2 ? 'active' : '';
         $html .= '<div class="carousel-item '.$active.'">
-                      <img class="d-block w-100" src="'.$dir.'/'.$img.'" alt="'.$img.' style="width:1024px;"">
+                      <img class="d-block w-100" src="'.$dir.'/'.$img.'" alt="'.$img.'" style="width:1024px;">
                   </div>';
     }
 }
