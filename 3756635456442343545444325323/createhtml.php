@@ -1,5 +1,5 @@
-# cd 3756635456442343545444325323 ; docker run -v $(pwd):/app/ php:8.0-cli php /app/createhtml.php > ChrisCraft.html
 <?php
+# cd 3756635456442343545444325323 ; docker run -v $(pwd):/app/ php:8.0-cli php /app/createhtml.php > ChrisCraft.html; cd ..
 $dir = __DIR__.'/img';
 $images = scandir($dir);
 
